@@ -1,0 +1,21 @@
+nav {
+    margin: 0 5%;
+    padding: 1%;
+    color: greenyellow;
+    background: black;
+}
+
+.nav-item {
+    border: 2px solid blue;
+    align-content: center;
+    margin: 3%;
+    padding: 2%;
+}
+
+.navbar-text {
+    align-content: center;
+    color: blue;
+    font-size: 500%;
+    font-weight: bold;
+    padding: 5%;
+}
