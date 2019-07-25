@@ -1,12 +1,12 @@
 import React from "react";
 
-function CardTile(){
+
+const CardTile= props => {
     return(
-        <div className="container">
-            <div className="row">
-                <div class="card">
-                    <img src="../Images/banshee.jpg" class="card-img-top" alt="banshee"></img>
-                </div>
+        <div className="container" >
+            {/* onClick={()=>props.scoreIncrease(props.id)} */}
+            <div className="image">
+                <img alt={props.alt} src={require("../../Images/" + props.images)} />
             </div>
         </div>
     )
