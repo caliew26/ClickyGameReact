@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/caliew26/ClickyGameReact/static/css/main.05aa9ef5.chunk.css",
-    "main.js": "/caliew26/ClickyGameReact/static/js/main.92352906.chunk.js",
-    "main.js.map": "/caliew26/ClickyGameReact/static/js/main.92352906.chunk.js.map",
+    "main.css": "/caliew26/ClickyGameReact/static/css/main.ab68f6d7.chunk.css",
+    "main.js": "/caliew26/ClickyGameReact/static/js/main.86755342.chunk.js",
+    "main.js.map": "/caliew26/ClickyGameReact/static/js/main.86755342.chunk.js.map",
     "runtime~main.js": "/caliew26/ClickyGameReact/static/js/runtime~main.f9509027.js",
     "runtime~main.js.map": "/caliew26/ClickyGameReact/static/js/runtime~main.f9509027.js.map",
-    "static/js/2.9384f8d8.chunk.js": "/caliew26/ClickyGameReact/static/js/2.9384f8d8.chunk.js",
-    "static/js/2.9384f8d8.chunk.js.map": "/caliew26/ClickyGameReact/static/js/2.9384f8d8.chunk.js.map",
+    "static/js/2.ae58c3e9.chunk.js": "/caliew26/ClickyGameReact/static/js/2.ae58c3e9.chunk.js",
+    "static/js/2.ae58c3e9.chunk.js.map": "/caliew26/ClickyGameReact/static/js/2.ae58c3e9.chunk.js.map",
     "index.html": "/caliew26/ClickyGameReact/index.html",
-    "precache-manifest.4a177950675746799eaf014a15a0ed85.js": "/caliew26/ClickyGameReact/precache-manifest.4a177950675746799eaf014a15a0ed85.js",
+    "precache-manifest.05cfe3adf996f9f4458c6b7d55a6e50c.js": "/caliew26/ClickyGameReact/precache-manifest.05cfe3adf996f9f4458c6b7d55a6e50c.js",
     "service-worker.js": "/caliew26/ClickyGameReact/service-worker.js",
-    "static/css/main.05aa9ef5.chunk.css.map": "/caliew26/ClickyGameReact/static/css/main.05aa9ef5.chunk.css.map"
+    "static/css/main.ab68f6d7.chunk.css.map": "/caliew26/ClickyGameReact/static/css/main.ab68f6d7.chunk.css.map",
+    "static/media/banshee.jpg": "/caliew26/ClickyGameReact/static/media/banshee.ac5fea7d.jpg",
+    "static/media/birthdayMM.jpg": "/caliew26/ClickyGameReact/static/media/birthdayMM.c37c46e5.jpg",
+    "static/media/epcotnight.jpg": "/caliew26/ClickyGameReact/static/media/epcotnight.bcaf4f14.jpg",
+    "static/media/ghosts.jpg": "/caliew26/ClickyGameReact/static/media/ghosts.a7678905.jpg",
+    "static/media/goofylove.jpg": "/caliew26/ClickyGameReact/static/media/goofylove.836f7df3.jpg",
+    "static/media/invaders.jpg": "/caliew26/ClickyGameReact/static/media/invaders.d25867b5.jpg",
+    "static/media/mickeyncali.jpg": "/caliew26/ClickyGameReact/static/media/mickeyncali.5d0e5771.jpg",
+    "static/media/minnielove.jpg": "/caliew26/ClickyGameReact/static/media/minnielove.f3fbacea.jpg",
+    "static/media/scrooged.jpg": "/caliew26/ClickyGameReact/static/media/scrooged.a42baf82.jpg",
+    "static/media/storyland.jpg": "/caliew26/ClickyGameReact/static/media/storyland.4dd1f852.jpg",
+    "static/media/tadacastle.jpg": "/caliew26/ClickyGameReact/static/media/tadacastle.88baf63f.jpg",
+    "static/media/theforce.jpg": "/caliew26/ClickyGameReact/static/media/theforce.8301584c.jpg"
   }
 }
