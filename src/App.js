@@ -36,7 +36,7 @@ class App extends Component {
         <NavBar/>
           <div className="row">
             <div className="container">
-              <div className="col-sm">
+              <div>
                 {this.state.cardTiles.map(cardTilesImage => (
                   <CardTile
                     id={cardTilesImage.id}

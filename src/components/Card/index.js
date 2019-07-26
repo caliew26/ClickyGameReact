@@ -1,11 +1,11 @@
 import React from "react";
+import  "./style.css";
 
 
-const CardTile= props => {
+function CardTile(props) {
     return(
-        <div className="container" >
-            {/* onClick={()=>props.scoreIncrease(props.id)} */}
-            <div className="image">
+        <div className="container card" >
+            <div className="image col-sm">
                 <img alt={props.alt} src={require("../../Images/" + props.images)} />
             </div>
         </div>

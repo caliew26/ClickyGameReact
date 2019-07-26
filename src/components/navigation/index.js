@@ -5,6 +5,7 @@ import "./style.css";
 function NavBar(){
     return (
         <nav className="nav navbar-dark navbar-expand{-sm|-md|-lg|-xl}">
+            {/* I want the game to reset when the name is clicked */}
             <Link className="navbar-brand navbar-text form-inline" to="/">
             Giphy-Clicky Game
             </Link>
